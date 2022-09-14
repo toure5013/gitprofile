@@ -16,7 +16,7 @@ const config = {
     facebook: '',
     instagram: '',
     dribbble: '',
-    behance: '',
+    behance: 'toure5013',
     medium: 'toure5013',
     dev: 'toure5013',
     website: 'https://toure5013.github.io',
