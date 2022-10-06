@@ -3,8 +3,8 @@
 const config = {
   github: {
     username: 'toure5013', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
-    limit: 20, // How many projects to display.
+    sortBy: 'updated', // stars | updated
+    limit: 30, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -20,16 +20,18 @@ const config = {
     medium: 'toure5013',
     dev: 'toure5013',
     website: 'https://toure5013.github.io',
-    phone: '',
+    phone: '+2250708175631',
     email: 'toure5013@gmail.com',
   },
   skills: [
     'TypeScript',
     'JavaScript',
+    'Flutter',
     'Vue.js',
     'Nuxt.js',
     'Angular.js',
     'React.js',
+    'Next.js',
     'Node.js',
     'Nest.js',
     'MySQL',
@@ -83,6 +85,18 @@ const config = {
       degree: 'Master Blockchain',
       from: '2020',
       to: '2022',
+    },
+    {
+      institution: 'Open clasroom',
+      degree: 'Computer Science',
+      from: '2016',
+      to: 'Now',
+    },
+    {
+      institution: 'CS50',
+      degree: 'Computer Science',
+      from: '2021',
+      to: 'Now',
     },
     {
       institution: 'Virtual University Côte d\'Ivoire',
